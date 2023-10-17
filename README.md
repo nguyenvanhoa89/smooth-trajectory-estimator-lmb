@@ -6,7 +6,7 @@ Below is the comparative result for a linear tracking scenario (Scenario 1 in th
 
 <img src="assets/s1_est_vs_truth.png" width="480">
 
-**Please cite our paper if you are using our codes as follows: **
+#### Please cite our paper if you are using our codes as follows:
 ```
 @inproceedings{nguyen2023the,
   title={The Smooth Trajectory Estimator for LMB Filters},
